@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PinKevin
-- 👀 I’m interested in Front-End Development and Back-End Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Halo semua!
+Perkenalkan nama saya **Emerio Kevin Aryaputra**.
+
+Saya adalah seorang mahasiswa di Universitas Diponegoro
+
 
 <!---
 PinKevin/PinKevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
