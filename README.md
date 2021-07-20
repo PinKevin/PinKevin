@@ -1,7 +1,8 @@
 # Halo semua!
 Perkenalkan nama saya **Emerio Kevin Aryaputra**.
 
-Saya adalah seorang mahasiswa di Universitas Diponegoro
+Saya adalah seorang mahasiswa di Universitas Diponegoro.\
+Silahkan berkenalan dengan saya lewat Linkedinku ya.
 
 
 <!---
