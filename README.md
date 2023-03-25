@@ -4,6 +4,9 @@ Perkenalkan nama saya **Emerio Kevin Aryaputra**.
 Saya adalah seorang mahasiswa di Universitas Diponegoro.\
 Silahkan berkenalan dengan saya.
 
+Quote saya :
+> If you can't overcome your fear, do it scared
+
 <p align="left">
 <a href="https://github.com/PinKevin">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PinKevin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
