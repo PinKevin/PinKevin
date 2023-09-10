@@ -2,7 +2,8 @@
 Perkenalkan nama saya **Emerio Kevin Aryaputra**.
 
 Saya adalah seorang mahasiswa di Universitas Diponegoro.\
-Silahkan berkenalan dengan saya.
+Silakan berkenalan dengan saya.\
+I'm rooting for Kang Kitty
 
 Quote saya :
 > If you can't overcome your fear, do it scared
