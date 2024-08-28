@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone👋, I'm Emerio Kevin Aryaputra</h1>
-<h3 align="center">6th semester student from Universitas Diponegoro</h3>
+<h3 align="center">7th semester student from Universitas Diponegoro</h3>
 
 <div align="center" style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdsNXV6eDUydmJuYzJlaHR3bHNoN21kZmFwN2VxN2ZwNWt5MTd3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8E3El5VFhv0ngKGkXt/giphy.gif" width="200" height="200" />
