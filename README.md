@@ -11,13 +11,8 @@
   <p> 
     <img src="https://komarev.com/ghpvc/?username=pinkevin&label=Profile%20views&color=0e75b6&style=flat" alt="pinkevin" /> 
   </p>
-
-  <p> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=pinkevin&column=-1" alt="pinkevin" />
-    </a> 
-  </p>
 </div>
+
   
 
 - 🌱 I’m currently learning **anything about web**
@@ -90,13 +85,4 @@
 <div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pinkevin&show_icons=true&locale=en&layout=compact" alt="pinkevin" width="300" style="margin: 10px;" />
     <img src="https://github-readme-stats.vercel.app/api?username=pinkevin&show_icons=true&locale=en" alt="pinkevin" height="165" style="margin: 10px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinkevin&" alt="pinkevin" height="200" style="margin: 10px;" />
 </div>
-
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinkevin&show_icons=true&locale=en&layout=compact" alt="pinkevin"  /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkevin&show_icons=true&locale=en" alt="pinkevin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinkevin&" alt="pinkevin" /></p>
--->
